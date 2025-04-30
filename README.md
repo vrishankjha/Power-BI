@@ -1,6 +1,6 @@
-HOSPITALITY INSIGHTS DASHBOARD(May,June,July)
+1.HOSPITALITY INSIGHTS DASHBOARD(May,June,July)
 
-1.Booking Analysis Dashboard (Booking_Analysis)
+(i) Booking Analysis Dashboard (Booking_Analysis)
 
 This dashboard gives an overview of the hotel booking performance, segmented by different factors such as city, property name, room class, and booking status.
 
@@ -40,7 +40,7 @@ Atliq Palace, Atliq Exotica, and Atliq City have the highest total and confirmed
 
 Atliq Seasons has the lowest booking numbers.
 
-2. Revenue Analysis Dashboard (Tab: Revenue_Analysis)
+(ii) Revenue Analysis Dashboard (Tab: Revenue_Analysis)
 
 This dashboard reflects the financial performance derived from bookings.
 
@@ -96,7 +96,7 @@ Top Performers: Elite rooms, Mumbai city, and Atliq Exotica lead both in booking
 
 Booking Platform Strategy: Heavy reliance on external platforms—opportunity to boost direct online bookings to improve margins.
 
-EV Vehicle Sales Analysis (4-Year Trend)
+2. EV Vehicle Sales Analysis (4-Year Trend)
 
 Objective: Analyzed the adoption and distribution of electric vehicle (EV) sales across Indian states and manufacturers using data sourced from vahan.parivahan.gov.in.
 
