@@ -1,6 +1,7 @@
 HOSPITALITY INSIGHTS DASHBOARD(May,June,July)
 
-Booking Analysis Dashboard (Tab: Booking_Analysis)
+1.Booking Analysis Dashboard (Booking_Analysis)
+
 This dashboard gives an overview of the hotel booking performance, segmented by different factors such as city, property name, room class, and booking status.
 Key Metrics (Top KPIs):
 Capacity: 233K
@@ -21,6 +22,7 @@ By Property Name:
 Atliq Palace, Atliq Exotica, and Atliq City have the highest total and confirmed bookings.
 Atliq Seasons has the lowest booking numbers.
 2. Revenue Analysis Dashboard (Tab: Revenue_Analysis)
+
 This dashboard reflects the financial performance derived from bookings.
 Key Metrics:
 Total Revenue: ₹1.71 billion
@@ -50,6 +52,7 @@ Top Performers: Elite rooms, Mumbai city, and Atliq Exotica lead both in booking
 Booking Platform Strategy: Heavy reliance on external platforms—opportunity to boost direct online bookings to improve margins.
 
 EV Vehicle Sales Analysis (4-Year Trend)
+
 Objective: Analyzed the adoption and distribution of electric vehicle (EV) sales across Indian states and manufacturers using data sourced from vahan.parivahan.gov.in.
 Approach: Connected Power BI to a MySQL database and validated all figures using SQL queries. Built two analytical views:
 • State-wise EV sales dashboard (2021–2024): Tracked electric vs non-electric sales, top-performing states, and EV share by category (2W/4W).
